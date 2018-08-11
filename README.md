@@ -1,6 +1,22 @@
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
+# deepeye
+一个简单的基于TCP的图片服务器程序，实现了图片流的接收和发送。
 
-# Darknet #
+Prerequisites
+--
+* JSON library for C
+* OpenCV 2.X or OpenCV 3.X
+
+Complie Instruction
+--
+    gcc qbr.c -o qbr -lpthread -ljson
+    gcc qbr_s.c -o qbr_s -lpthread -ljson
+
+Run
+--
+    ./qbr
+
+Darknet
+--
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 For more information see the [Darknet project website](http://pjreddie.com/darknet).
