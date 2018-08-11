@@ -1,4 +1,4 @@
-# deepeye
+# DeepEye
 一个简单的基于TCP的图片服务器程序，实现了图片流的接收和发送。
 
 Prerequisites
