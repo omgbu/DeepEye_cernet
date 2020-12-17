@@ -1,0 +1,31 @@
+<resources>
+    <!--  默认中文版 -->
+    <string name="app_name">Deepeye</string>
+    <string name="hint_connection_status">Connection status is showing here</string>
+    <string name="ip_address">IP is showing here</string>
+    <string name="request_permission">The application requires camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <!--  Buttons -->
+    <string name="btn_caption_connect">Connect</string>
+    <string name="btn_caption_disconnect">Disconnect</string>
+    <string name="btn_caption_cancel">Cancel</string>
+
+    <!-- WiFi connection -->
+    <string name="title_input_ip_address">Please input IP address and port number to connect</string>
+    <string name="hint_ip_address">Input IP address (000.000.000.000)</string>
+
+    <!--  layout部分新加_wh -->
+    <string name="resolution_select">分辨率选择</string>
+    <string name="pattern_select">模式选择</string>
+    <string name="self_adapt">自适应模式</string>
+    <string name="customize">自定义模式</string>
+
+    <!--  layout_land部分新加_wh -->
+    <string name="title_of_fcp">智能驾驶，伴您出行！</string>
+    <string name="t1_of_fcp_front">图像采集分辨率：</string>
+    <string name="t1_of_fcp_behind">（像素）</string>
+    <string name="t2_of_fcp">云端处理后效果</string>
+    <string name="t3_of_fcp">系统处理后时延：</string>
+    <string name="t4_of_fcp">当前网速：</string>
+</resources>
