@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  英文版 -->
+    <!--  layout -->
+    <string name="resolution_select">Resolution Select</string>
+    <string name="pattern_select">Mode Select</string>
+    <string name="self_adapt">Self-adapt</string>
+    <string name="customize">Customize</string>
+
+    <!--  layout_land -->
+    <string name="title_of_fcp">For your driving safety!</string>
+    <string name="t1_of_fcp_front">Current resolution:</string>
+    <string name="t1_of_fcp_behind">(px*px)</string>
+    <string name="t2_of_fcp">cloud-processing result</string>
+    <string name="t3_of_fcp">Delay:</string>
+    <string name="t4_of_fcp">Network speed:</string>
+
+</resources>

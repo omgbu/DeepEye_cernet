@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_d9ee7062c65421fe57d15b5a26c656007fb9d467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_89dce5705db8332b9557bf14f5e2af57cf82141d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_2ac37fcd5b55fbca79c3af3becfec818eb2142d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.3.1_61bae5a49df256c9372d6b1ddffe1a079ea5a9f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_5c0a9c19ed758b1e6dc92fbf8aac6757d3a219d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_28eb1136afff6941964c528e174a4604c0165f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_6e2d6b15b867eab25e34a571d83bffc67959e101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="35558f53549745cd0b51914245ff389313fee629">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_19a47ef74b42e13c7238d23a7bb42e669096416a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_65aad4d4c25b20ee4a51fd036d11419c51b3b0f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_8db74b543d5b313086b7b1eb6078c8f119c33ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6540600037f627704444b04797e3ae7892fad422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\Android\AndroidStudioProjects\Deepeye_3\Deepeye_1 2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_b544ed0f4ebfefe1a610c9b5255ccee1b869d648.jar" />
+    </item>
+
+</items>
